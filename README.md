@@ -35,9 +35,9 @@ $ pip install -r requirements.txt
 ### Basic Usage
 
 Select and copy the grades from the table on the myUMBC page.
-
 ![](images/grade-example.png)
 
+**As demonstrated in the figure above, do not include the last line** 
 Create a file in the root directory named 'grades.csv', containing the grade distribution pasted in.
 
 Run the following in the root directory:
