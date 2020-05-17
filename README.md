@@ -51,5 +51,6 @@ $ python3 gradeStats.py
 * Add more statistics, such as median, mode
 * Add an option to take multiple filenames, or a directory full of CSV files, to calculate statistics for different assignments
 * Access HTML directly and scrape it to automate the process further
+* Alternatively, simply write a JS script that the user can copy paste into their console, and scrap the Python version.
 
 <!-- Markdown links -->
